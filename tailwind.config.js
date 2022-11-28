@@ -6,10 +6,14 @@ module.exports = {
     './pages/**/*.vue',
     './plugins/**/*.{js,ts}',
     './nuxt.config.{js,ts}',
-    './app.vue'
+    './app.vue',
   ],
   theme: {
-    extend: {}
+    extend: {
+      fontFamily: {
+        karla: ['Karla', 'sans-serif'],
+      },
+    },
   },
-  plugins: []
+  plugins: [],
 }

@@ -1,6 +1,6 @@
 <template>
   <li
-    class="text-gray-900 p-3 hover:bg-gray-200 hover:cursor-pointer transition-all duration-300"
+    class="text-gray-900 py-2 px-4 hover:bg-gray-200 hover:cursor-pointer transition-all duration-300"
   >
     <div class="flex justify-between items-center text-sm">
       <slot />

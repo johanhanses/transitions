@@ -1,6 +1,6 @@
 <template>
   <svg
-    class="h-3 w-3"
+    class="h-4 w-4"
     viewBox="0 0 1024 1024"
   >
     <path
